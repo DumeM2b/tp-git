@@ -141,7 +141,10 @@ Dans cette dernière étape, nous avons automatisé l'exécution des tests unita
 
   ![image](https://github.com/DumeM2b/tp-git/assets/163656850/03075af7-520f-43c5-a8f4-6f6d03bc2c4e)
 
-3. **Validation :** Après avoir poussé nos modifications vers le dépôt distant, nous avons vérifié que les tests unitaires s'exécutaient automatiquement à chaque modification du code en effectuant une modification mineure et en vérifiant que le pipeline se déclenchait correctement.
+3. **Validation :** Après avoir poussé nos modifications vers le dépôt distant, nous avons vérifié que les tests unitaires s'exécutaient automatiquement à chaque modification du code en effectuant une modification mineure et en vérifiant que le pipeline se déclenchait correctement. Après plusieurs modifications nouas avons reussi à passer le test pylint.
+
+   ![image](https://github.com/DumeM2b/tp-git/assets/163656850/158dda8b-10fd-4a99-a264-9c5fe75a5ec3)
+
 
 
 ## **Conclusion :**
