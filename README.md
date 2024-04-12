@@ -1,4 +1,4 @@
-## Rapport sur le Travail Pratique de Git
+## Rapport TP Git Andrea MACHEDA
 
 ### **Introduction :**
 Le travail pratique avait pour objectif de familiariser les étudiants avec l'utilisation de Git et GitHub, ainsi que de mettre en pratique les concepts de gestion de versions, de branches et d'intégration continue.
