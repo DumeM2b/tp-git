@@ -36,7 +36,7 @@ def division(a: int, b: int) -> float:
         b (int): Diviseur.
 
     Returns:
-        float: Résultat de la division si le diviseur n'est pas zéro, sinon renvoie un message d'erreur.
+        float: Résultat de la division si le diviseur n'est pas zéro.
     """
     if b != 0:
         result = a / b
