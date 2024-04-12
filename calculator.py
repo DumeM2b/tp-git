@@ -1,3 +1,7 @@
+"""
+Module calculator
+"""
+
 def addition(a: int, b: int) -> int:
     """Fonction d'addition.
 
