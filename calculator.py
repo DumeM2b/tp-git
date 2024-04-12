@@ -12,5 +12,3 @@ def division(a, b):
     return result
   else:
     return "Imposible division by 0"
-
-print("Hello world")
