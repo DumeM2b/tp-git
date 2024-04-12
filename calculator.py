@@ -1,41 +1,40 @@
 def addition(a: int, b: int) -> int:
-    """Addition function.
+    """Fonction d'addition.
 
     Args:
-        a (int): First operand.
-        b (int): Second operand.
+        a (int): Premier opérande.
+        b (int): Deuxième opérande.
 
     Returns:
-        int: Result of the addition.
+        int: Résultat de l'addition.
     """
     result = a + b
     return result
 
 def soustraction(a: int, b: int) -> int:
-    """Subtraction function.
+    """Fonction de soustraction.
 
     Args:
-        a (int): First operand.
-        b (int): Second operand.
+        a (int): Premier opérande.
+        b (int): Deuxième opérande.
 
     Returns:
-        int: Result of the subtraction.
+        int: Résultat de la soustraction.
     """
     result = a - b
     return result
 
 def division(a: int, b: int) -> float:
-    """Division function.
+    """Fonction de division.
 
     Args:
-        a (int): Dividend.
-        b (int): Divisor.
+        a (int): Dividende.
+        b (int): Diviseur.
 
     Returns:
-        float: Result of the division if divisor is not zero, otherwise returns an error message.
+        float: Résultat de la division si le diviseur n'est pas zéro, sinon renvoie un message d'erreur.
     """
     if b != 0:
         result = a / b
         return result
-    else:
-        return "Impossible division by 0"
+    return "Division impossible par 0"  # Suppression de l'else après le return
